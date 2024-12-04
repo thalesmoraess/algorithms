@@ -1,4 +1,5 @@
 pilha = ['A', 'E', 'I', 'O']
+
 print(pilha)
 pilha.append('U')
 print(pilha)

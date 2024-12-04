@@ -1,4 +1,5 @@
 lista = ['A', 'E', 'I', 'O', 'U']
+
 print(lista)
 lista.append('B')
 print(lista)
